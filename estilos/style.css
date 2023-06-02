@@ -58,9 +58,5 @@ main {
     transition: transform .2s;
 }
 
-header {
-    background-color: lightblue;
-    padding: 10px;
-    text-align: center;
 
-}
+
